@@ -13,6 +13,7 @@ To use Football Results Manager you must have Java JDK installed (found at: http
 To install Java JDK download the SDK from Oracle's downloads page. Once downloaded, run the program and go through the setup wizard. Remember where the JDK is saved if you want to recompile later.
 
 ### Installing
+
 Assuming you have downloaded the project to C:\Users\[TomBabz]\Documents\GitHub where [TomBabz] is your own username:
 
 Open Command Prompt and type "cd Documents\GitHub":
