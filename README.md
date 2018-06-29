@@ -17,23 +17,23 @@ Assuming you have downloaded the project to C:\Users\[TomBabz]\Documents\GitHub 
 
 Open Command Prompt and type "cd Documents\GitHub":
 ```
-C:\Users\TomBabz> cd Documents\GitHub
+C:\Users\Tom> cd Documents\GitHub
 ```
 Next type "cd football-results-manager":
 ```
-C:\Users\TomBabz\Documents\GitHub> cd football-results-manager
+C:\Users\Tom\Documents\GitHub> cd football-results-manager
 ```
 Next type "cd Java Assignment":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager> cd Java Assignment
+C:\Users\Tom\Documents\GitHub\football-results-manager> cd Java Assignment
 ```
 Next type "cd bin":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> cd bin
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment> cd bin
 ```
 Next type "java Main":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\bin> Java Main
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\bin> Java Main
 ```
 You should now be greeted with the welcome screen for the Football Results Manager:
 ```
@@ -58,27 +58,27 @@ If you want to compile the project then:
 
 Open Command Prompt and type "cd Documents\GitHub":
 ```
-C:\Users\TomBabz> cd Documents\GitHub
+C:\Users\Tom> cd Documents\GitHub
 ```
 Next type "cd football-results-manager":
 ```
-C:\Users\TomBabz\Documents\GitHub> cd football-results-manager
+C:\Users\Tom\Documents\GitHub> cd football-results-manager
 ```
 Next type "cd Java Assignment":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager> cd Java Assignment
+C:\Users\Tom\Documents\GitHub\football-results-manager> cd Java Assignment
 ```
 Next type "cd src":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> cd src
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment> cd src
 ```
 check that the java files are present with "dir". You should see .java files.
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> dir
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\src> dir
 ```
 Next tell the system where your JDK programs are located with "set path=%path%;C:\Program Files\Java\[your JDK version]\bin
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> set path=%path%;C:\Program Files\Java\jdk1.8.0_172\bin
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\src> set path=%path%;C:\Program Files\Java\jdk1.8.0_172\bin
 ```
 Next compile the programs with javac
 ```
@@ -90,7 +90,7 @@ C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\src> dir
 ```
 Next type "java Main":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> Java Main
+C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\src> Java Main
 ```
 You should now be greeted with the welcome screen for the Football Results Manager:
 ```
