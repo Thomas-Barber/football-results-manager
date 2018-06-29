@@ -74,11 +74,11 @@ C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> cd s
 ```
 check that the java files are present with "dir". You should see .java files.
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> dir
+C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> dir
 ```
 Next tell the system where your JDK programs are located with "set path=%path%;C:\Program Files\Java\[your JDK version]\bin
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> set path=%path%;C:\Program Files\Java\jdk1.8.0_172\bin
+C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> set path=%path%;C:\Program Files\Java\jdk1.8.0_172\bin
 ```
 Next compile the programs with javac
 ```
