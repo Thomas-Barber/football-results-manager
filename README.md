@@ -27,13 +27,13 @@ Next type "cd Java Assignment":
 ```
 C:\Users\TomBabz\Documents\GitHub\football-results-manager> cd Java Assignment
 ```
-Next type "cd src":
+Next type "cd bin":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> cd src
+C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment> cd bin
 ```
 Next type "java Main":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\> Java Main
+C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\bin> Java Main
 ```
 You should now be greeted with the welcome screen for the Football Results Manager:
 ```
@@ -90,7 +90,7 @@ C:\Users\Tom\Documents\GitHub\football-results-manager\Java Assignment\src> dir
 ```
 Next type "java Main":
 ```
-C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\> Java Main
+C:\Users\TomBabz\Documents\GitHub\football-results-manager\Java Assignment\src> Java Main
 ```
 You should now be greeted with the welcome screen for the Football Results Manager:
 ```
